@@ -31,5 +31,5 @@ The SPIMI (Single-Pass In-Memory Indexing) algorithm is an efficient method for 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:lojain-azzam/SPIMI-.git
-   cd SPIMI-
+   git clone git@github.com:lojain-azzam/SPIMI.git
+   cd SPIMI
