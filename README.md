@@ -24,7 +24,7 @@ The SPIMI (Single-Pass In-Memory Indexing) algorithm is an efficient method for 
 3. **Merging Indices**:
    - After processing all documents, the algorithm merges the individual sub-indices into a single inverted index.
    - Duplicates are eliminated, and the final index is written to a CSV file for easy access.
-![SPIMI Algorithm Diagram](SPIMIPic1.png)
+![SPIMI Merging Pic](SPIMI/SPIMIPic1.png)
 
 ## Usage
 
